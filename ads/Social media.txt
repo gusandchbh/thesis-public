@@ -1,0 +1,23 @@
+
+Are you are Software Engineer working at least 40% remotely? Look here!
+
+Software engineering can be very stressful and the fact is that Software engineers are at a higher risk than many other occupations of suffering from burnout. At the same time we are seeing a large shift in software engineering towards working in remote/hybrid work environments, and while there are benefical aspects of this it also creates new challenges in terms of work-life balance, taking fewer breaks and working longer hours.
+This calls for effective stress management strategies to improve resilience i.e. the ability to bounce back from stress.
+
+My bachelor thesis investigates if a brief breathing technique known as '4-7-8 breathing' can have a positive impact on resilience in this context. To help me assess this I am looking for participants to take part in a breathing intervention. The details of the intervention are as follows:
+- Fill in pre-intervention questionnaire related to your resilience, well-being and work engagement
+- Practice 4-7-8 breathing twice daily for four weeks
+- Fill in a post-intervention questionnare containing the same set of questions
+- Optionally, you can choose to take part in a follow-up interview where your experience is discussed
+
+You may be thinking that it's a large commitment to perform this breathing practice twice daily for four weeks.
+My answer to this is that I agree, I'm essentially asking you to build a new habit and that can be tough, but I would like you to consider the following:
+- Each breathing session takes just over a minute
+- By building this habit you will be acquiring a tool that can help you relax in stressful situations
+- I have a set up a website where you will have access to an animation that guides you through the breathing practice and where you will be able to track your progress
+- Your participation is anonymised and your data is kept safe
+
+If you think this sounds interesting please feel free to reach out to me directly or by visiting the website where you can read more about the study and sign up: https://mindfulness-thesis.vercel.app/
+
+Have a great day!
+Christopher
