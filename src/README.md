@@ -42,7 +42,7 @@ question_id VARCHAR NOT NULL,
 response VARCHAR NOT NULL
 );
 ```
-Once the tables are completed it is recommend that you enable row level security and set up appropriate policies.
+Once the tables are created it is recommend that you enable row level security and set up appropriate policies.
 
 ## Run the project
 To run the project locally:
